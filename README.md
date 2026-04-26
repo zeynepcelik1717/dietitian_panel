@@ -19,7 +19,7 @@ Diyetisyenlerin danışanlarını yönetebileceği basit ve etkili bir web uygul
 
 ## Kurulum
 \`\`\`bash
-git clone https://github.com/KULLANICI_ADIN/dietitian-panel.git
+git clone https://github.com/zeynepcelik1717/dietitian-panel.git
 cd dietitian-panel
 python -m venv venv
 venv\Scripts\activate
